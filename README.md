@@ -1,14 +1,16 @@
-<h1 align="center"> Project6Log </h1>
+<h1 align="center"> FênixLog </h1>
+
+![descrição da imagem](https://palmaseguros.co.mz/images/frota.jpg)
+
+
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
+
 
 ## Objetivo do projeto
 
 Desenvolver através de ferramentas uma análise de custos de transporte com indicadores de monitoramento, que seja funcional, dinâmica e que fundamente as tomadas de decisões, além de possibilitar traçar estratégias mais seguras e assertivas. 
 
-<h4 align="center"> 
-    :construction:  Em construção  :construction:
-</h4>
 
-![descrição da imagem](https://palmaseguros.co.mz/images/frota.jpg)
 >
 ## Autores
 
