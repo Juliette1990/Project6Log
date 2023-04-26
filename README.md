@@ -26,13 +26,13 @@ Facilitar a visibilidade dos principais indicadores que impactam os custos de tr
 - [x] Analise de dados e validação para a Sprint 1;
 - [x] Compreender com o cliente quais os itens são mais relevantes;
 - [x] Elaborar um protótipo do dashboard;
-- [x] Definir o objetivo do projeto;
+- [x] Definir o objetivo do projeto.
 
 ### Sprint 2
 - [ ] Corrigir os gaps da Sprint 1;
 - [ ] Refazer o dashboard da Sprint 1, com base nos dados revistos e sinalizados de inconsistência;
 - [ ] Estudar formas de avaliar os dados;
-- [ ] Definir as oportunidades de melhoria após a entrega de cada sprint;
+- [ ] Definir as oportunidades de melhoria após a entrega de cada sprint.
 
 ### Sprint 3
 - [ ] Corrigir os gaps da Sprint 2;
@@ -44,9 +44,7 @@ Facilitar a visibilidade dos principais indicadores que impactam os custos de tr
 ## :white_check_mark: Tecnologias utilizadas
 - `Power BI`
 
-![Sprint 1 - gif](https://user-images.githubusercontent.com/127999551/234441617-946aa733-cb80-4436-8a5a-5695f751807f.gif)
 
-! [ ] (Sprint 1 - gif.gif)
 >
 ## Autores
 
