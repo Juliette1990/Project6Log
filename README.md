@@ -6,24 +6,21 @@
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
 
-## Objetivo do projeto
+## :dart: Objetivo do projeto
 
 Desenvolver através de ferramentas uma análise de custos de transporte com indicadores de monitoramento, que seja funcional, dinâmica e que fundamente as tomadas de decisões, além de possibilitar traçar estratégias mais seguras e assertivas. 
 
 
-## Visão do produto
+## :anchor: Visão do produto
 
 Facilitar a visibilidade dos principais indicadores que impactam os custos de transporte em uma empresa, através de uma ferramenta dinâmica onde tomadores de decisão poderão se basear para traçar estratégias.
 
 ## :hammer: Funcionalidades do projeto
 
-- `Funcionalidade 1` `Consultar o dashboard`: Nossa ferramenta deve estar apta a realização de consultassistema precisa estar apto a cadastrar os autores associados ao livros publicados por eles. Para cadastrar um autor, devem ser informados seu e-mail, válido e único dentro do sistema. Seu nome e uma pequena biografia. Todos os campos são obrigatórios. O sistema também deve gravar a data em que o autor foi cadastrado no sistema.Ferramenta ser acessada em todos os sistemas operacionais.
+- `Funcionalidade 1` `Consultar o dashboard`: Nossa ferramenta deve estar apta a realização de consultas dinâmicas em qualquer sistema operacional.
 
-## Requisitos não funcionais
 
-- xxxxxxxx
-
-## Plano de entregas
+## :pushpin: Plano de entregas
 ### Sprint 1 
 - [x] Pesquisa sobre quais itens são pertinentes em um dashboard de custos;
 - [x] Analise de dados e validação para a Sprint 1;
@@ -43,9 +40,10 @@ Facilitar a visibilidade dos principais indicadores que impactam os custos de tr
 - [ ] Definir as oportunidades de melhoria após a entrega de cada sprint;
 
 
-## ✔️ Tecnologias utilizadas
+## :white_check_mark: Tecnologias utilizadas
 - `Power BI`
 
+! [ ] (Sprint 1 - gif.gif)
 >
 ## Autores
 
