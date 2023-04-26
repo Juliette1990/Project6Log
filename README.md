@@ -26,19 +26,22 @@ Facilitar a visibilidade dos principais indicadores que impactam os custos de tr
 - [x] Analise de dados e validação para a Sprint 1;
 - [x] Compreender com o cliente quais os itens são mais relevantes;
 - [x] Elaborar um protótipo do dashboard;
-- [x] Definir o objetivo do projeto.
+- [x] Definir o objetivo do projeto;
+- [x] Entrega do MPV.
 
 ### Sprint 2
 - [ ] Corrigir os gaps da Sprint 1;
 - [ ] Refazer o dashboard da Sprint 1, com base nos dados revistos e sinalizados de inconsistência;
 - [ ] Estudar formas de avaliar os dados;
-- [ ] Definir as oportunidades de melhoria após a entrega de cada sprint.
+- [ ] Definir as oportunidades de melhoria após a entrega de cada sprint;
+- [ ] Entrega do MPV.
 
 ### Sprint 3
 - [ ] Corrigir os gaps da Sprint 2;
 - [ ] Refazer o dashboard da Sprint 2, com base nos dados revistos e sinalizados de inconsistência;
 - [ ] Definir as oportunidades de melhoria após a entrega de cada sprint;
 - [ ] Estudar e desenvolver validação de dados no Python.
+- [ ] Entrega do MPV.
 
 
 ## :triangular_flag_on_post: MPV - Sprint 1
