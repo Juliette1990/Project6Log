@@ -38,6 +38,7 @@ Facilitar a visibilidade dos principais indicadores que impactam os custos de tr
 - [ ] Corrigir os gaps da Sprint 2;
 - [ ] Refazer o dashboard da Sprint 2, com base nos dados revistos e sinalizados de inconsistência;
 - [ ] Definir as oportunidades de melhoria após a entrega de cada sprint;
+- [ ] Estudar e desenvolver validação de dados no Python.
 
 
 ## :white_check_mark: Tecnologias utilizadas
