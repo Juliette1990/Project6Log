@@ -11,6 +11,41 @@
 Desenvolver através de ferramentas uma análise de custos de transporte com indicadores de monitoramento, que seja funcional, dinâmica e que fundamente as tomadas de decisões, além de possibilitar traçar estratégias mais seguras e assertivas. 
 
 
+## Visão do produto
+
+Facilitar a visibilidade dos principais indicadores que impactam os custos de transporte em uma empresa, através de uma ferramenta dinâmica onde tomadores de decisão poderão se basear para traçar estratégias.
+
+## :hammer: Funcionalidades do projeto
+
+- `Funcionalidade 1` `Consultar o dashboard`: Nossa ferramenta deve estar apta a realização de consultassistema precisa estar apto a cadastrar os autores associados ao livros publicados por eles. Para cadastrar um autor, devem ser informados seu e-mail, válido e único dentro do sistema. Seu nome e uma pequena biografia. Todos os campos são obrigatórios. O sistema também deve gravar a data em que o autor foi cadastrado no sistema.Ferramenta ser acessada em todos os sistemas operacionais.
+
+## Requisitos não funcionais
+
+- xxxxxxxx
+
+## Plano de entregas
+### Sprint 1 
+- [x] Pesquisa sobre quais itens são pertinentes em um dashboard de custos;
+- [x] Analise de dados e validação para a Sprint 1;
+- [x] Compreender com o cliente quais os itens são mais relevantes;
+- [x] Elaborar um protótipo do dashboard;
+- [x] Definir o objetivo do projeto;
+
+### Sprint 2
+- [ ] Corrigir os gaps da Sprint 1;
+- [ ] Refazer o dashboard da Sprint 1, com base nos dados revistos e sinalizados de inconsistência;
+- [ ] Estudar formas de avaliar os dados;
+- [ ] Definir as oportunidades de melhoria após a entrega de cada sprint;
+
+### Sprint 3
+- [ ] Corrigir os gaps da Sprint 2;
+- [ ] Refazer o dashboard da Sprint 2, com base nos dados revistos e sinalizados de inconsistência;
+- [ ] Definir as oportunidades de melhoria após a entrega de cada sprint;
+
+
+## ✔️ Tecnologias utilizadas
+- `Power BI`
+
 >
 ## Autores
 
