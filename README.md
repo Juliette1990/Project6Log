@@ -41,10 +41,13 @@ Facilitar a visibilidade dos principais indicadores que impactam os custos de tr
 - [ ] Estudar e desenvolver validação de dados no Python.
 
 
-## :white_check_mark: Tecnologias utilizadas
-- `Power BI`
+## :triangular_flag_on_post: MPV - Sprint 1
 
 ![Sprint 1 - gif](https://user-images.githubusercontent.com/127999551/234441617-946aa733-cb80-4436-8a5a-5695f751807f.gif)
+
+## :heavy_check_mark: Tecnologias utilizadas
+- `Power BI`
+
 
 >
 ## Autores
