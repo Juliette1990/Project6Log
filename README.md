@@ -17,10 +17,8 @@ Facilitar a visibilidade dos principais indicadores que impactam os custos de tr
 
 ## :hammer: Requisitos funcionais
 
-- `Funcionalidade 1`: Analisar a quantidade transportada no ano de 2021;
-- `Funcionalidade 2`: Analisar a quantidade de cliente por fábrica;
-- `Funcionalidade 3`: Analisar o valor do frete por cliente;
-- `Funcionalidade 4`: Analisar a quantidade transportada no ano de 2021;
+- `Funcionalidade 1`: Gerar grafícos dinâmicos;
+- `Funcionalidade 2`: Permitir a visualização dos custos de transporte;
 
 ## :hammer: Requisitos não funcionais
 
@@ -36,8 +34,8 @@ Facilitar a visibilidade dos principais indicadores que impactam os custos de tr
 - [x] Quantidade de cliente por fabrica;
 - [x] Valor do Frete por clientes;
 - [x] Quantidade de transporte e valor do frete entre fabricas e veículos;
-- [x] Quantidade transportadas por cliente e municipio.
-- [x] Quantidade transportada e frete e incoterm.
+- [x] Quantidade transportadas por cliente e municipio;
+- [x] Quantidade transportada e frete e incoterm;
 - [x] Quantidade movimentada e tipo de operação por clientes. 
 
 ### Sprint 2
@@ -58,7 +56,7 @@ Facilitar a visibilidade dos principais indicadores que impactam os custos de tr
 
 ### Sprint 4
 - [ ] Quantidade total transportada no ano de 2021;
-- [ ] Quantidade movimentada e tipo de operação por clientes. 
+- [ ] Quantidade movimentada e tipo de operação por clientes;
 - [ ] Valor do frete por Km;
 - [ ] Soma de frete por tipo de veículo;
 - [ ] Análise de eficiência de fábrica por quantidade tranportada, utilizando o DEA.
