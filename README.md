@@ -22,12 +22,14 @@ Facilitar a visibilidade dos principais indicadores que impactam os custos de tr
 
 ## :pushpin: Plano de entregas
 ### Sprint 1 
-- [x] Pesquisa sobre quais itens são pertinentes em um dashboard de custos;
-- [x] Analise de dados e validação para a Sprint 1;
-- [x] Compreender com o cliente quais os itens são mais relevantes;
-- [x] Elaborar um protótipo do dashboard;
-- [x] Definir o objetivo do projeto;
-- [x] Entrega do MPV.
+- [x] Quantidade total transportada no ano de 2021;
+- [x] Total do freete no ano de 2021;
+- [x] Quantidade de cliente por fabrica;
+- [x] Valor do Frete por clientes;
+- [x] Quantidade de transporte e valor do frete entre fabricas e veiculos;
+- [x] Quantidade transportadas por cliente e municipio.
+- [x] Quantidade transportada e frete e incoterm.
+- [x] Quantidade movimentada e tipo de operação e clientes 
 
 ### Sprint 2
 - [ ] Corrigir os gaps da Sprint 1;
