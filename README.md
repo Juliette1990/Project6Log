@@ -23,7 +23,7 @@ Facilitar a visibilidade dos principais indicadores que impactam os custos de tr
 ## :pushpin: Plano de entregas
 ### Sprint 1 
 - [x] Quantidade total transportada no ano de 2021;
-- [x] Total do freete no ano de 2021;
+- [x] Total do frete no ano de 2021;
 - [x] Quantidade de cliente por fabrica;
 - [x] Valor do Frete por clientes;
 - [x] Quantidade de transporte e valor do frete entre fabricas e veiculos;
@@ -32,11 +32,15 @@ Facilitar a visibilidade dos principais indicadores que impactam os custos de tr
 - [x] Quantidade movimentada e tipo de operação e clientes 
 
 ### Sprint 2
-- [ ] Corrigir os gaps da Sprint 1;
+- [ ] Gerado o VRP spreadshead solver V3;
 - [ ] Refazer o dashboard da Sprint 1, com base nos dados revistos e sinalizados de inconsistência;
-- [ ] Estudar formas de avaliar os dados;
-- [ ] Definir as oportunidades de melhoria após a entrega de cada sprint;
-- [ ] Entrega do MPV.
+- [ ] Calculo das distâncias das fabricas para os clientes através do VRP;
+- [ ] Calculo do valor dos fretes atraves das distancias geradas no VRP ;
+- [ ] Soma de valor de frete por cliente.
+- [ ] Soma de quantidade de trandporte por cliente 
+- [ ] Soma de frete por tipo de veiculo P12 / P24.
+- [ ] Soma de quantidade de transporte por cliente.
+- [ ] Atualizado os status e a evolução do Power BI 
 
 ### Sprint 3
 - [ ] Corrigir os gaps da Sprint 2;
