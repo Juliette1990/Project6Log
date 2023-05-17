@@ -50,6 +50,10 @@ Facilitar a visibilidade dos principais indicadores que impactam os custos de tr
 
 ![Sprint 1 - gif](https://user-images.githubusercontent.com/127999551/234441617-946aa733-cb80-4436-8a5a-5695f751807f.gif)
 
+## :triangular_flag_on_post: MPV - Sprint 2
+
+![Sprint 2](https://github.com/Juliette1990/Project6Log/assets/127999551/33f7a4d5-9a71-49cb-99c9-07c5fde738a5)
+
 ## :heavy_check_mark: Tecnologias utilizadas
 - `Power BI`
 
