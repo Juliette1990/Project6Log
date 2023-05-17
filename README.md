@@ -15,9 +15,18 @@ Desenvolver através de ferramentas uma análise de custos de transporte com ind
 
 Facilitar a visibilidade dos principais indicadores que impactam os custos de transporte em uma empresa, através de uma ferramenta dinâmica onde tomadores de decisão poderão se basear para traçar estratégias.
 
-## :hammer: Funcionalidades do projeto
+## :hammer: Requisitos funcionais
 
-- `Funcionalidade 1` `Consultar o dashboard`: Nossa ferramenta deve estar apta a realização de consultas dinâmicas em qualquer sistema operacional.
+- `Funcionalidade 1`: Analisar a quantidade transportada no ano de 2021;
+- `Funcionalidade 2`: Analisar a quantidade de cliente por fábrica;
+- `Funcionalidade 3`: Analisar o valor do frete por cliente;
+- `Funcionalidade 4`: Analisar a quantidade transportada no ano de 2021;
+
+## :hammer: Requisitos não funcionais
+
+- `1`: Atualização diária do banco de dados;
+- `2`: Segurança de dados;
+- `3`: Precisar a tomada de decisão.
 
 
 ## :pushpin: Plano de entregas
@@ -32,22 +41,25 @@ Facilitar a visibilidade dos principais indicadores que impactam os custos de tr
 - [x] Quantidade movimentada e tipo de operação e clientes 
 
 ### Sprint 2
-- [ ] Gerado o VRP spreadshead solver V3;
-- [ ] Refazer o dashboard da Sprint 1, com base nos dados revistos e sinalizados de inconsistência;
-- [ ] Calculo das distâncias das fabricas para os clientes através do VRP;
-- [ ] Calculo do valor dos fretes atraves das distancias geradas no VRP ;
-- [ ] Soma de valor de frete por cliente.
-- [ ] Soma de quantidade de trandporte por cliente 
-- [ ] Soma de frete por tipo de veiculo P12 / P24.
-- [ ] Soma de quantidade de transporte por cliente.
-- [ ] Atualizado os status e a evolução do Power BI 
+- [x] Gerado o VRP spreadshead solver V3;
+- [x] Refazer o dashboard da Sprint 1, com base nos dados revistos e sinalizados de inconsistência;
+- [x] Calculo das distâncias das fabricas para os clientes através do VRP;
+- [x] Calculo do valor dos fretes atraves das distancias geradas no VRP ;
+- [x] Soma de valor de frete por cliente.
+- [x] Soma de quantidade de trandporte por cliente 
+- [x] Soma de frete por tipo de veiculo P12 / P24.
+- [x] Soma de quantidade de transporte por cliente.
+- [x] Atualizado os status e a evolução do Power BI 
 
 ### Sprint 3
-- [ ] Corrigir os gaps da Sprint 2;
+- [ ] Análise de eficiência de cliente por quantidade transportada, utilizando o DEA;
 - [ ] Refazer o dashboard da Sprint 2, com base nos dados revistos e sinalizados de inconsistência;
 - [ ] Definir as oportunidades de melhoria após a entrega de cada sprint;
 - [ ] Estudar e desenvolver validação de dados no Python.
 - [ ] Entrega do MPV.
+
+### Sprint 4
+
 
 
 ## :triangular_flag_on_post: MPV - Sprint 1
@@ -60,6 +72,7 @@ Facilitar a visibilidade dos principais indicadores que impactam os custos de tr
 
 ## :heavy_check_mark: Tecnologias utilizadas
 - `Power BI`
+- `Linguagem R`
 
 
 >
