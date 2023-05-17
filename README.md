@@ -35,7 +35,7 @@ Facilitar a visibilidade dos principais indicadores que impactam os custos de tr
 - [x] Total do frete no ano de 2021;
 - [x] Quantidade de cliente por fabrica;
 - [x] Valor do Frete por clientes;
-- [x] Quantidade de transporte e valor do frete entre fabricas e veiculos;
+- [x] Quantidade de transporte e valor do frete entre fabricas e veículos;
 - [x] Quantidade transportadas por cliente e municipio.
 - [x] Quantidade transportada e frete e incoterm.
 - [x] Quantidade movimentada e tipo de operação por clientes. 
@@ -45,13 +45,13 @@ Facilitar a visibilidade dos principais indicadores que impactam os custos de tr
 - [x] Calculo do valor dos fretes através das distâncias geradas no VRP;
 - [x] Soma de valor de frete por cliente;
 - [x] Soma de quantidade transporta por cliente;
-- [x] Soma de frete por tipo de veiculo P12 / P24;
+- [x] Soma de frete por tipo de veículo P12 / P24;
 - [x] Soma de quantidade de transporte por cliente.
 
 ### Sprint 3
 - [ ] Análise de eficiência de cliente por quantidade transportada, utilizando o DEA;
 - [ ] Quantidade transportada x frete e incoterm;
-- [ ] Soma de frete por tipo de veiculo P12 / P24;
+- [ ] Soma de frete por tipo de veículo P12 / P24;
 - [ ] Valor do frete por Km;
 - [ ] Distâncias das rotas entre fábricas x clientes, utilizando o VRP spreadshead solver V3;
 - [ ] Valor gasto em R$ x Km por rota.
@@ -59,7 +59,9 @@ Facilitar a visibilidade dos principais indicadores que impactam os custos de tr
 ### Sprint 4
 - [ ] Quantidade total transportada no ano de 2021;
 - [ ] Quantidade movimentada e tipo de operação por clientes. 
-- [ ] 
+- [ ] Valor do frete por Km;
+- [ ] Soma de frete por tipo de veículo;
+- [ ] Análise de eficiência de fábrica por quantidade tranportada, utilizando o DEA.
 
 
 
@@ -74,6 +76,8 @@ Facilitar a visibilidade dos principais indicadores que impactam os custos de tr
 ## :heavy_check_mark: Tecnologias utilizadas
 - `Power BI`
 - `Linguagem R`
+- `Excel`
+
 
 
 >
