@@ -38,27 +38,28 @@ Facilitar a visibilidade dos principais indicadores que impactam os custos de tr
 - [x] Quantidade de transporte e valor do frete entre fabricas e veiculos;
 - [x] Quantidade transportadas por cliente e municipio.
 - [x] Quantidade transportada e frete e incoterm.
-- [x] Quantidade movimentada e tipo de operação e clientes 
+- [x] Quantidade movimentada e tipo de operação por clientes. 
 
 ### Sprint 2
-- [x] Gerado o VRP spreadshead solver V3;
-- [x] Refazer o dashboard da Sprint 1, com base nos dados revistos e sinalizados de inconsistência;
-- [x] Calculo das distâncias das fabricas para os clientes através do VRP;
-- [x] Calculo do valor dos fretes atraves das distancias geradas no VRP ;
-- [x] Soma de valor de frete por cliente.
-- [x] Soma de quantidade de trandporte por cliente 
-- [x] Soma de frete por tipo de veiculo P12 / P24.
+- [x] Calculo das distâncias das rotas entre fábricas x clientes, utilizando o VRP spreadshead solver V3;
+- [x] Calculo do valor dos fretes através das distâncias geradas no VRP;
+- [x] Soma de valor de frete por cliente;
+- [x] Soma de quantidade transporta por cliente;
+- [x] Soma de frete por tipo de veiculo P12 / P24;
 - [x] Soma de quantidade de transporte por cliente.
-- [x] Atualizado os status e a evolução do Power BI 
 
 ### Sprint 3
 - [ ] Análise de eficiência de cliente por quantidade transportada, utilizando o DEA;
-- [ ] Refazer o dashboard da Sprint 2, com base nos dados revistos e sinalizados de inconsistência;
-- [ ] Definir as oportunidades de melhoria após a entrega de cada sprint;
-- [ ] Estudar e desenvolver validação de dados no Python.
-- [ ] Entrega do MPV.
+- [ ] Quantidade transportada x frete e incoterm;
+- [ ] Soma de frete por tipo de veiculo P12 / P24;
+- [ ] Valor do frete por Km;
+- [ ] Distâncias das rotas entre fábricas x clientes, utilizando o VRP spreadshead solver V3;
+- [ ] Valor gasto em R$ x Km por rota.
 
 ### Sprint 4
+- [ ] Quantidade total transportada no ano de 2021;
+- [ ] Quantidade movimentada e tipo de operação por clientes. 
+- [ ] 
 
 
 
