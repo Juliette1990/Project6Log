@@ -47,12 +47,12 @@ Facilitar a visibilidade dos principais indicadores que impactam os custos de tr
 - [x] Soma de quantidade de transporte por cliente.
 
 ### Sprint 3
-- [ ] Análise de eficiência de cliente por quantidade transportada, utilizando o DEA;
-- [ ] Quantidade transportada x frete e incoterm;
-- [ ] Soma de frete por tipo de veículo P12 / P24;
-- [ ] Valor do frete por Km;
-- [ ] Distâncias das rotas entre fábricas x clientes, utilizando o VRP spreadshead solver V3;
-- [ ] Valor gasto em R$ x Km por rota.
+- [ ] Análise de eficiência de cliente por quantidade transportada e distância, utilizando o DEA;
+- [ ] Valor gasto com combustível por ano;
+- [ ] Valor gasto com combustível por mês duranto o ano de 2021;
+- [ ] Comparativo do valor gasto com frete, no ano de 2021 entre o que foi projetado e o que foi executado;
+- [ ] Comparativo do valor médio do frete unitário por fábrica, entre o que foi projetado e o que foi xecutado;
+- [ ] Comparativo do valor médio de frete por Km e por fábrica, entre o que foi planejado e o que foi executado.
 
 ### Sprint 4
 - [ ] Quantidade total transportada no ano de 2021;
