@@ -71,6 +71,10 @@ Facilitar a visibilidade dos principais indicadores que impactam os custos de tr
 
 ![SPRINT 2](https://github.com/Juliette1990/Project6Log/assets/127999551/a5d9fb83-c35a-496b-9b12-5961c940e87e)
 
+## :triangular_flag_on_post: MPV - Sprint 3
+
+![Uploading bandicam-2023-06-06-21-07-44-038-_online-video-cutter.com_.gif…]()
+
 ## :heavy_check_mark: Tecnologias utilizadas
 - `Power BI`
 - `Linguagem R`
