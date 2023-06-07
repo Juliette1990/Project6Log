@@ -79,7 +79,7 @@ Facilitar a visibilidade dos principais indicadores que impactam os custos de tr
 - `Power BI`
 - `Linguagem R`
 - `Excel`
-![Ferramentas utilizadas](https://github.com/Juliette1990/Project6Log/assets/127999876/9659d8c2-301d-4415-9631-9620cc289e0e)
+![plataformas](https://github.com/Juliette1990/Project6Log/assets/127999551/88854bc9-aaf1-4cf4-aac8-1761c00d6937)
 
 
 >
