@@ -76,9 +76,7 @@ Facilitar a visibilidade dos principais indicadores que impactam os custos de tr
 ![bandicam-2023-06-06-21-07-44-038-_online-video-cutter com_](https://github.com/Juliette1990/Project6Log/assets/127999551/fbaa634b-afd1-46f6-bfb5-408ba3d1d133)
 
 ## :heavy_check_mark: Tecnologias utilizadas
-- `Power BI`
-- `Linguagem R`
-- `Excel`
+
 ![plataformas](https://github.com/Juliette1990/Project6Log/assets/127999551/88854bc9-aaf1-4cf4-aac8-1761c00d6937)
 
 
