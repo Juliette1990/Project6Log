@@ -63,15 +63,15 @@ Facilitar a visibilidade dos principais indicadores que impactam os custos de tr
 
 
 
-## :triangular_flag_on_post: MPV - Sprint 1
+## :triangular_flag_on_post: MVP - Sprint 1
 
 ![Sprint 1 - gif](https://user-images.githubusercontent.com/127999551/234441617-946aa733-cb80-4436-8a5a-5695f751807f.gif)
 
-## :triangular_flag_on_post: MPV - Sprint 2
+## :triangular_flag_on_post: MVP - Sprint 2
 
 ![SPRINT 2](https://github.com/Juliette1990/Project6Log/assets/127999551/a5d9fb83-c35a-496b-9b12-5961c940e87e)
 
-## :triangular_flag_on_post: MPV - Sprint 3
+## :triangular_flag_on_post: MVP - Sprint 3
 
 ![DASH-03-gif](https://github.com/Juliette1990/Project6Log/assets/127999551/2a8faabe-6e75-4e9b-b6df-8a5bdd501597)
 
