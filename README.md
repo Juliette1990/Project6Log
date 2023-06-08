@@ -47,12 +47,12 @@ Facilitar a visibilidade dos principais indicadores que impactam os custos de tr
 - [x] Soma de quantidade de transporte por cliente.
 
 ### Sprint 3
-- [ ] Análise de eficiência de cliente por quantidade transportada e distância, utilizando o DEA;
-- [ ] Valor gasto com combustível por ano;
-- [ ] Valor gasto com combustível por mês duranto o ano de 2021;
-- [ ] Comparativo do valor gasto com frete, no ano de 2021 entre o que foi projetado e o que foi executado;
-- [ ] Comparativo do valor médio do frete unitário por fábrica, entre o que foi projetado e o que foi xecutado;
-- [ ] Comparativo do valor médio de frete por Km e por fábrica, entre o que foi planejado e o que foi executado.
+- [x] Análise de eficiência de cliente por quantidade transportada e distância, utilizando o DEA;
+- [x] Valor gasto com combustível por ano;
+- [x] Valor gasto com combustível por mês duranto o ano de 2021;
+- [x] Comparativo do valor gasto com frete, no ano de 2021 entre o que foi projetado e o que foi executado;
+- [x] Comparativo do valor médio do frete unitário por fábrica, entre o que foi projetado e o que foi xecutado;
+- [x] Comparativo do valor médio de frete por Km e por fábrica, entre o que foi planejado e o que foi executado.
 
 ### Sprint 4
 - [ ] Quantidade total transportada no ano de 2021;
