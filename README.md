@@ -1,4 +1,3 @@
-<h1 align="center"> FênixLog </h1>
 
 ![image](https://github.com/Juliette1990/Project6Log/assets/127999551/419c2f89-3cf6-4e3c-a554-db2d7863d5ff)
 
