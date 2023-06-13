@@ -7,17 +7,17 @@
 
 ## :dart: Objetivo do projeto
 
-Desenvolver através de ferramentas uma análise de custos de transporte com indicadores de monitoramento, que seja funcional, dinâmica e que fundamente as tomadas de decisões, além de possibilitar traçar estratégias mais seguras e assertivas. 
+Desenvolver através de ferramentas uma análise de custos de rotas com indicadores de monitoramento, que seja funcional, dinâmica e que fundamente as tomadas de decisões, além de possibilitar traçar estratégias mais seguras e assertivas. 
 
 
 ## :anchor: Visão do produto
 
-Facilitar a visibilidade dos principais indicadores que impactam os custos de transporte em uma empresa, através de uma ferramenta dinâmica onde tomadores de decisão poderão se basear para traçar estratégias.
+Facilitar a visibilidade dos principais indicadores que impactam os custos de rotas em uma empresa, através de uma ferramenta dinâmica onde tomadores de decisão poderão se basear para traçar estratégias.
 
 ## :hammer: Requisitos funcionais
 
 - `Funcionalidade 1`: Gerar grafícos dinâmicos;
-- `Funcionalidade 2`: Permitir a visualização dos custos de transporte;
+- `Funcionalidade 2`: Permitir a visualização dos custos de rotas.
 
 ## :hammer: Requisitos não funcionais
 
