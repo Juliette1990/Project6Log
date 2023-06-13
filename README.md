@@ -1,6 +1,6 @@
 <h1 align="center"> FênixLog </h1>
 
-![descrição da imagem](https://palmaseguros.co.mz/images/frota.jpg)
+![image](https://github.com/Juliette1990/Project6Log/assets/127999551/419c2f89-3cf6-4e3c-a554-db2d7863d5ff)
 
 
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
