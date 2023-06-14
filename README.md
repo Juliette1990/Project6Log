@@ -80,7 +80,7 @@ Facilitar a visibilidade dos principais indicadores que impactam os custos de ro
 
 ## :heavy_check_mark: Tecnologias utilizadas
 
-![Screenrecorder-2023-06-14-17-03-08-143](https://github.com/Juliette1990/Project6Log/assets/127999551/8724b4a6-31ad-4c31-9600-40f70c32430f)
+!https://github.com/Juliette1990/Project6Log/assets/127999551/b817787f-24ce-44b6-8dce-42239e2df832
 
 >
 ## Autores
