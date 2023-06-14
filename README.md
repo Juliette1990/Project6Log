@@ -75,7 +75,7 @@ Facilitar a visibilidade dos principais indicadores que impactam os custos de ro
 ![DASH-03-gif](https://github.com/Juliette1990/Project6Log/assets/127999551/2a8faabe-6e75-4e9b-b6df-8a5bdd501597)
 
 ## :triangular_flag_on_post: MVP - Sprint 4
-![20230613_222547](https://github.com/Juliette1990/Project6Log/assets/127999551/5725a058-4d35-42b2-83ee-2a36039e51d6)
+![20230613_222547](https://github.com/Juliette1990/Project6Log/assets/127999551/db741eeb-f51e-4f04-b005-5456d742bf22)
 
 
 ## :heavy_check_mark: Tecnologias utilizadas
